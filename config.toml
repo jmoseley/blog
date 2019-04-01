@@ -1,0 +1,4 @@
+baseURL = "https://jeremy.moseley.dev/"
+languageCode = "en-us"
+title = "jeremy.moseley.dev"
+theme = "cactus-plus"
