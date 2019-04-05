@@ -2,6 +2,9 @@ set -xe
 
 CLONE_DIR=$(pwd)
 
+git submodule init
+git submodule update
+
 npm install postcss-cli autoprefixer
 
 yum install -y wget
