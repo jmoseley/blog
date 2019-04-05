@@ -1,4 +1,4 @@
-baseURL = "https://jeremy.moseley.dev/"
+baseURL = "/"
 languageCode = "en-us"
 title = "jeremy.moseley.dev"
 theme = "hugo-coder"
