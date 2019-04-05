@@ -2,8 +2,9 @@ set -xe
 
 CLONE_DIR=$(pwd)
 
-# TODO: Use static build to clone submodules.
-git clone https://github.com/luizdepra/hugo-coder.git themes/hugo-coder
+git clone https://github.com/jmoseley/hugo-theme-introduction.git themes/introduction
+
+npm install postcss-cli autoprefixer
 
 yum install -y wget
 
