@@ -11,7 +11,7 @@ googleAnalytics                 = "UA-137806641-1"                       # https
     fadeIn                       = false                    # Turn on/off the fade-in effect
     fadeInIndex                  = true                   # Turn on/off the fade-in effect on the index page even if fade-in was otherwise turned off
     dateFormat                   = "Jan 2, 2006"
-    email                        = "jeremy.moseley@gmail.com"   # E-mail address for contact section
+    email                        = "jeremy@moseley.dev"   # E-mail address for contact section
     # customCSS                    = ["foo.css"]             # Include custom css files placed under assets/
 
     # Configure the home page
@@ -73,5 +73,5 @@ googleAnalytics                 = "UA-137806641-1"                       # https
         weight           = 0
         title            = "jeremy.moseley.dev"
         [languages.en.params]
-            description  = "Website Description"   # Max 160 characters show in search results
+            description  = "Blog and homepage for Jeremy Moseley"   # Max 160 characters show in search results
             # footerText   = ""                      # Text to override default footer text (markdown allowed)
