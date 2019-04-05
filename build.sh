@@ -2,8 +2,7 @@ set -xe
 
 CLONE_DIR=$(pwd)
 
-git submodule init
-git submodule update
+git clone https://github.com/jmoseley/hugo-theme-introduction.git themes/introduction
 
 npm install postcss-cli autoprefixer
 
