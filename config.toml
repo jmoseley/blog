@@ -16,9 +16,9 @@ googleAnalytics                 = "UA-137806641-1" # https://gohugo.io/templates
 
     # Configure the home page
     [params.home]
-        introHeight              = "medium"            # Input either "medium" or "large" or "fullheight"
-        showLatest               = true                    # Show latest blog post summary
-        showAllPosts             = false                   # Set true to list all posts on home page, or set false to link to separate blog list page
+        introHeight              = "fullheight"            # Input either "medium" or "large" or "fullheight"
+        showLatest               = false                    # Show latest blog post summary
+        showAllPosts             = true                   # Set true to list all posts on home page, or set false to link to separate blog list page
         numberOfProjectsToShow   = 0                       # Maximum number of projects to show on home page. Unset or comment out to show all projects
 
         localTime                = true                    # Show your current local time in contact section
@@ -73,5 +73,6 @@ googleAnalytics                 = "UA-137806641-1" # https://gohugo.io/templates
         weight           = 0
         title            = "jeremy.moseley.dev"
         [languages.en.params]
+            
             description  = "Blog and homepage for Jeremy Moseley"   # Max 160 characters show in search results
             # footerText   = ""                      # Text to override default footer text (markdown allowed)
