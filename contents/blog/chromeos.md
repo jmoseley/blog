@@ -1,6 +1,7 @@
 ---
-title: "Full Time Development on Chrome OS"
+title: 'Full Time Development on Chrome OS'
 date: 2019-04-06T16:25:00Z
+root: '/blog'
 ---
 
 I have recently purchased a Google Pixelbook to help satisfy my curiosity about the feasibility of a non-OSX platform for development. I plan to use the Pixelbook as my daily driver, and I'm writing a series of blog posts about the experience.

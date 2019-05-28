@@ -1,6 +1,7 @@
 ---
-title: "Hello"
+title: 'Hello'
 date: 2019-04-01T02:07:26Z
+root: '/blog'
 ---
 
 Howdy. I'm a software engineer, and this is my blog. I like building software, riding bicycles, and playing with gadgets.

@@ -1,7 +1,11 @@
 [
-  { 
+  {
     "name": "Docs",
-    "link":  "/docs/get-started/introduction"
+    "link": "/docs/get-started/introduction"
+  },
+  {
+    "name": "Jeremy",
+    "link": "/home/about"
   },
   {
     "name": "Blog",
