@@ -31,6 +31,13 @@ module.exports = {
         path: `${__dirname}/contents`,
       },
     },
+
+    {
+      resolve: 'gatsby-plugin-google-analytics',
+      options: {
+        trackingId: 'UA-137806641-1',
+      },
+    },
     'gatsby-transformer-sharp',
     'gatsby-plugin-sharp',
     {
