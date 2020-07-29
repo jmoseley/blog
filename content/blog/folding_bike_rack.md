@@ -1,7 +1,7 @@
 ---
 title: "Ceiling Mounted Folding Bike Rack"
 date: 2020-07-28T20:36:32-07:00
-draft: true
+draft: false
 ---
 
 In our new house, I basically have been given free reign of the garage. Its too small for a car, so I have decided to turn it into my workspace. I plan for it to be a place where I can get better at doing my own maintenance on bicycles, plus provide a place to work on other home projects. The most important piece of any good bike maintenance center is a nice bike stand. I've never had space for one, so I was excited to get something high quality and dependable.
