@@ -9,7 +9,7 @@ npm install postcss-cli autoprefixer
 yum install -y wget
 
 # Install go
-wget https://dl.google.com/go/go1.12.1.linux-amd64.tar.gz --quiet -O go.tar.gz
+wget https://golang.org/dl/go1.14.6.linux-amd64.tar.gz --quiet -O go.tar.gz
 tar -C /usr/local -xzf go.tar.gz
 
 # Set up paths
