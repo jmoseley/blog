@@ -20,6 +20,7 @@ mkdir -p $HOME/go/src
 
 # Not sure why this doesn't happen during either 'go get' or 'go install'
 go get github.com/wellington/go-libsass/libs
+go get github.com/jdkato/prose/transform
 
 # Clone the project
 cd $HOME/go/src
