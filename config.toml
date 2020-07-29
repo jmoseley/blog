@@ -76,4 +76,5 @@ googleAnalytics                 = "UA-137806641-1" # https://gohugo.io/templates
 
 [module]
   [[module.imports]]
-    path = "github.com/jmoseley/hugo-theme-introduction/" # theme
+    path = "github.com/jmoseley/hugo-theme-introduction"
+    # theme
