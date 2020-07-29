@@ -1,5 +1,4 @@
 baseURL                          = "/"  # Your domain name. Must end with "/"
-theme                            = "introduction"
 DefaultContentLanguage           = "en"                    # Default language for multilingual sites
 googleAnalytics                 = "UA-137806641-1" # https://gohugo.io/templates/internal/#google-analytics
 
@@ -74,3 +73,7 @@ googleAnalytics                 = "UA-137806641-1" # https://gohugo.io/templates
         [languages.en.params]
             description  = "Blog and homepage for Jeremy Moseley"   # Max 160 characters show in search results
             footerText   = "[Source](https://www.github.com/jmoseley/blog)"                      # Text to override default footer text (markdown allowed)
+
+[module]
+  [[module.imports]]
+    path = "github.com/jmoseley/hugo-theme-introduction/" # theme
